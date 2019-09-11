@@ -1,6 +1,6 @@
 {
-    "name": "avalara/avatax-rest-api",
-    "version": "14.4.5",
+    "name": "divcomwebteam/avatax-rest-api",
+    "version": "15.0.0",
     "description": "A set of classes to assist with integration to the Avalara AvaTax REST API.",
     "require": {
         "php": ">=5.3.0"
